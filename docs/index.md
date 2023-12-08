@@ -24,4 +24,5 @@ We are building a split flap clock.
 * Hall Effect Sensors: In order to synchronize the stepper motor with the physical position of the flaps, we introduced a Hall effect sensor. When the flap spool containing the magnet reaches the designated home position, the Hall effect sensor registers the magnetic field, signaling that the flaps are in their home state. This serves as a pivotal reference point for the system, allowing it to recalibrate and ensure accurate timekeeping. Essentially, the Hall effect sensor acts as a positional marker, providing feedback to the control system about the current state of the flaps. This information is instrumental in maintaining synchronization and preventing drift in the display over time.
 
 # System Block Diagram
-
+This is the block diagram of our entire system: 
+![Overall Block Diagram](./assets/img/SystemOverall.png)
