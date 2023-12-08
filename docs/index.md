@@ -23,8 +23,15 @@ enable the proper LEDs for the time of day.
   <img src="./assets/img/Logo.png" alt="logo" width="100" />
 </div>
 
+# Project Result (with Video)
+**Real-Time Clock with Split Flaps:**
+One of the primary goals of our project was to create a real-time clock utilizing split flaps. We are pleased to report that this
+objective has been successfully achieved. The clock displays the current time in a 24-hour format using four split flap units in the
+arrangement "hour hour minute minute".  However, due to our implementation, the time gets off by around 5 seconds every 10 minutes.
+This causes the clock to become less and less accurate as time goes on. A future fix to easily fix this problem would be to use
+interrupts so delays needed to spin the flaps don’t affect the timer. Right now, the time it takes for a flap to spin to a number is
+the amount offset the clock becomes. 
 
-# Project Motivation
 
 # New Hardware
 * Stepper Motor: One piece of new hardware we hadn’t used before were stepper motors. Unlike traditional motors, a stepper motor allows for precise control over angular displacement, making it an ideal choice for the movements needed in rotating the flaps of the clock. The stepper motor divides a full rotation into a series of steps, and each step corresponds to a specific angular displacement. This level of control ensures accurate positioning of the flaps, contributing to the overall precision and reliability of the clock's rotation amounts.
