@@ -7,8 +7,15 @@ exclude: true
 
 # Project Abstract
 
-Welcome to our MicroPs final project.
-We are building a split flap clock.
+Our project aimed to design and implement a distinctive split flap display clock featuring four flap units to showcase the current
+time in a 24-hour format (military time). The display configuration, structured as "hour hour : minute minute," provided an intuitive
+and visually engaging representation of the current time. The heart of the clock's movement was a precise stepper motor, allowing for
+controlled and accurate transitions between time intervals.
+
+In addition to timekeeping, our project incorporated an LED display. This auxiliary feature dynamically displays a sun and moon
+emoji, offering an at-a-glance indication of the current time of day. The synchronization between the split flap display and the LED
+indicator was facilitated by SPI communication of the current time from our microcontroller to the FPGA which decoded the signal to 
+enable the proper LEDs for the time of day.
 
 
 
