@@ -23,7 +23,7 @@ Nithya Yeluri: Harvey Mudd Junior, c/o 2025, CS major:
 
 Dimitri Avila: Harvey Mudd Junior, c/o 2025, CS major:
 [LinkedIn](https://www.linkedin.com/in/dimitri-avila/);
-[Github]()
+[Github](https://www.github.com/mitri-afk)
 
 Javier Perez: Harvey Mudd Senior, c/o 2024, Engineering major:
 [LinkedIn](https://www.linkedin.com/in/javier-perez-hmc2024/)
