@@ -23,8 +23,13 @@ enable the proper LEDs for the time of day.
   <img src="./assets/img/Logo.png" alt="logo" width="100" />
 </div>
 
+# Pictures
+![1](./assets/img/1.png)
+![2](./assets/img/2.png)
+![3](./assets/img/3.png)
 # Project Result (with Video)
 [Split Flap Video](https://youtu.be/g_y-Th3MKWQ)
+
 
 
 **Real-Time Clock with Split Flaps:**
