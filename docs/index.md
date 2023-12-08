@@ -24,7 +24,7 @@ enable the proper LEDs for the time of day.
 </div>
 
 # Project Result (with Video)
-![image alt text](https://example.com/link-to-image)
+[Split Flap Video](https://youtu.be/g_y-Th3MKWQ)
 
 
 **Real-Time Clock with Split Flaps:**
