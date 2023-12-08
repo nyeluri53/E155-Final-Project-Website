@@ -33,3 +33,7 @@ MCU 2 Schematic:
 
 
 ## FPGA Block Diagram
+Overall FPGA Code Block Diagram: 
+![FPGA1](./assets/img/FPGA1.png)
+FPGA Core Module Block Diagram:
+![FPGA2](./assets/img/FPGA2.png)
