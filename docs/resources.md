@@ -4,11 +4,17 @@ title: Resources
 permalink: /resources/
 ---
 
-# References
-We took inspiration from the following projects:
-https://www.partsnotincluded.com/building-diy-split-flap-displays/
-https://github.com/scottbez1/splitflap/
+# References/Inspiration
+We took inspiration from the following project:
+[Split Flap Display](https://www.partsnotincluded.com/building-diy-split-flap-displays/)
+
+Hall Effect Data Sensor:
+[Hall Effect](https://www.diodes.com/assets/Datasheets/products_inactive_data/AH3362Q.pdf)
+
+MCU Datasheet:
+[MCU Datasheet](https://pages.hmc.edu/brake/class/e155/fa23/assets/doc/ds11451-stm32l432kc.pdf)
 
 
 
-# Inspiration
+
+
