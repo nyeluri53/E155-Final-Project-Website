@@ -17,5 +17,17 @@ MCU Datasheet:
 # Acknowledgements
 We would like thank Prof. Brake, Prof. Tina, and our E155 classmates for their continued support. None of this would have possible with them!
 
+# Team Bios
+Nithya Yeluri: Harvey Mudd Junior, c/o 2025, CS major:
+[LinkedIn](https://www.linkedin.com/in/nithya-yeluri/)
+
+Dimitri Avila: Harvey Mudd Junior, c/o 2025, CS major:
+[LinkedIn](https://www.linkedin.com/in/dimitri-avila/);
+[Github]()
+
+Javier Perez: Harvey Mudd Senior, c/o 2024, Engineering major:
+[LinkedIn](https://www.linkedin.com/in/javier-perez-hmc2024/)
+
+
 
 
