@@ -24,6 +24,9 @@ enable the proper LEDs for the time of day.
 </div>
 
 # Project Result (with Video)
+![image alt text](https://example.com/link-to-image)
+
+
 **Real-Time Clock with Split Flaps:**
 One of the primary goals of our project was to create a real-time clock utilizing split flaps. We are pleased to report that this
 objective has been successfully achieved. The clock displays the current time in a 24-hour format using four split flap units in the
