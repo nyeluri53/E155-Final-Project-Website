@@ -15,7 +15,7 @@ MCU Datasheet:
 [MCU Datasheet](https://pages.hmc.edu/brake/class/e155/fa23/assets/doc/ds11451-stm32l432kc.pdf)
 
 # Acknowledgements
-We would like thank Prof. Brake, Prof. Tina, and our E155 classmates for their continued support. None of this would have possible with them!
+We would like thank Prof. Brake, Prof. Tina, and our E155 classmates for their continued support. None of this would have possible without them!
 
 # Team Bios
 Nithya Yeluri: Harvey Mudd Junior, c/o 2025, CS major:
